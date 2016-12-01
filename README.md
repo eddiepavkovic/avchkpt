@@ -4,8 +4,9 @@ Avamar 7.x create and validation script.
 ## Install and Run
 
 ```
-unzip avchkpt.zip
-./avchkpt.sh 
+# unzip avchkpt-1.1.zip
+# cd avchkpt-1.1
+# ./avchkpt.sh 
 16.12.01 14:38:41 : ./avchkpt.sh version: 1.1
 usage --list | --create [ 1 | 2 ] [ full | rolling ]
    --list   - list current checkpoints
